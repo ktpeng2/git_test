@@ -1,2 +1,13 @@
 its too lit!
 changing commit message editor test
+
+git cheatsheet
+    remote repo
+        git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+        git push or git push origin main (Both accomplish the same goal in this context)
+    workflow
+        git add .
+        git commit -m "A message describing what you have done to make this snapshot different"
+    checking status or log
+        git status
+        git log
